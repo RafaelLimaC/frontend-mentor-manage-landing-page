@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Landing page de uma empresa fictícia, projeto criado usando layout fornecido pelo desafio da <a href="https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5">Frontend Mentor</a>, o projeto teve como pilares a responsividade e acessibilidade (para leitores de tela e pessoas com baixa visão).
+Landing page de uma empresa fictícia, projeto criado usando layout fornecido pelo desafio da <a href="https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5">Frontend Mentor</a>, o projeto teve como pilares a responsividade e acessibilidade (para pessoas que utilizam leitores de tela e pessoas com baixa visão).
 
 ## Tecnologias utilizadas
 
