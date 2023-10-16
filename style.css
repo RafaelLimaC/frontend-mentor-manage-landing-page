@@ -347,7 +347,7 @@ input:where([type="text"], [type="email"]) {
   .primary-footer__wrapper {
     grid-template-areas: 
       'logo nav form'
-      'logo-social nav copyright';
+      'F-social nav copyright';
 
     grid-template-columns: minmax(min-content, 190px) 1fr min-content;
   }
